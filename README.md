@@ -25,24 +25,6 @@ Nace en Medellín como proyecto piloto, con el propósito de dinamizar el empleo
 ---
 
 ## 🛠️ Estructura del proyecto
-tareaya_backend/
-├── src/
-│ ├── routes/
-│ │ ├── tasks.js
-│ │ ├── users.js
-│ │ ├── providers.js
-│ │ └── payments.js
-│ ├── db/
-│ │ ├── schema.sql
-│ │ └── seed.sql
-│ ├── app.js
-│ ├── server.js
-│ └── config/
-│ └── db.js
-├── .env.example
-├── package.json
-├── README.md
-
 ### 🧩 Tecnologías utilizadas
 - Node.js + Express.js  
 - PostgreSQL (configurable a MySQL)  
